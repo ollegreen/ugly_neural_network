@@ -1,4 +1,29 @@
-# The Ugly Neural Network (Duckling)
-The idea of this repo is for my own selfish reason of: building a neural network from scratch. The main factor is that the code will be prioritised to be written in an understandable way, over efficiency. Basically apprecaite the core building blocks of a naural network, as there are already a lot of neural networks out there that are efficiently written (so this will not be one of them).
+# The Ugly Neural (Duckling) Network
+The idea of this repo is for my own selfish reason of: building a neural network from scratch.
 
-![duckling](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FWesternAnimation%2FTheUglyDuckling1939&psig=AOvVaw0ZFEIl-myJROoXLye6DnbW&ust=1677347637256000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjCrYLdrv0CFQAAAAAdAAAAABAE)
+The code will prioritise to be understandable over efficiency. Basically explain and appreciate the core building blocks of a neural network.
+
+There are already a lot of neural networks out there that are efficiently written, and this will not be one of them.
+
+![duckling](https://static.tvtropes.org/pmwiki/pub/images/f1ee7082_1ee7_475a_81e0_e2870ea016a1.png)
+
+## Resources
+
+The main blocks of code will come from the youtube video series by Andrej Karpathy, see link [here](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
+
+
+<br/><br/>
+<br/><br/>
+
+# Building a Neuron
+
+
+<br/><br/>
+
+# Backpropagation
+
+
+<br/><br/>
+
+# Multilayer Perceptron (MLP)
+
