@@ -1,0 +1,4 @@
+# The Ugly Neural Network (Duckling)
+The idea of this repo is for my own selfish reason of: building a neural network from scratch. The main factor is that the code will be prioritised to be written in an understandable way, over efficiency. Basically apprecaite the core building blocks of a naural network, as there are already a lot of neural networks out there that are efficiently written (so this will not be one of them).
+
+![duckling](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftvtropes.org%2Fpmwiki%2Fpmwiki.php%2FWesternAnimation%2FTheUglyDuckling1939&psig=AOvVaw0ZFEIl-myJROoXLye6DnbW&ust=1677347637256000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjCrYLdrv0CFQAAAAAdAAAAABAE)
