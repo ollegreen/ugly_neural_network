@@ -1,7 +1,7 @@
 # The Ugly Neural (Duckling) Network
 The idea of this repo is for my own selfish reason of: building a neural network from scratch.
 
-The code will prioritise to be understandable over efficiency. Basically explain and appreciate the core building blocks of a neural network.
+The code will prioritise to be understandable over being efficient. Basically explain and appreciate the core building blocks of a neural network.
 
 There are already a lot of neural networks out there that are efficiently written, and this will not be one of them.
 
